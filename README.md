@@ -1,4 +1,3 @@
-::: {align="center"}
 # ProcureFlow
 
 ### Order Management System
